@@ -1,7 +1,7 @@
 # Parcial 2 - Cafetería U. Sabana
 
 ## Autor
-- [Tu Nombre Completo Aquí]
+- Jose Daniel Escobar Huertado
 
 ## Paso a Paso Realizado
 
