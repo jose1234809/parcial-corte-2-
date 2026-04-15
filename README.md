@@ -36,10 +36,4 @@
 - `parcial_2_clientes_limpios.csv`
 - `parcial_2_proveedores_limpios.csv`
 - `parcial_2_cafeteria.db`
-
-## Instrucciones para ejecutar
-
-Ejecutar:
-```bash
-python parcial_2_cafeteria.py
 ```
