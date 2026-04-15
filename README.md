@@ -5,7 +5,7 @@
 
 ## Paso a Paso Realizado
 
-1. Generé los archivos sucios:
+1.  Archivos sucios:
    - `parcial_2_productos_sucios.csv`
    - `parcial_2_clientes_sucios.csv`
    - `parcial_2_proveedores_sucios.csv`
